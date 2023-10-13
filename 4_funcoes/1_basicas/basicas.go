@@ -30,6 +30,8 @@ func main() {
 	fmt.Println(r3)
 	fmt.Println(r4)
 
+	// _, f52 := f5()
+	// r51, _ := f5()
 	r51, r52 := f5()
 	fmt.Println("F5:", r51, r52)
 }
